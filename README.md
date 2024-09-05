@@ -1,2 +1,2 @@
 # competitive-programing
-It is a repository for practicing competitive programing.
+This repository contains Top DSA question and programming in Golang.
